@@ -1,0 +1,17 @@
+{
+  "name": "express-toggl-dash",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hart Simha",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.10.7",
+    "express": "^4.17.2"
+  }
+}
