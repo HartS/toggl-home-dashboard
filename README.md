@@ -9,7 +9,7 @@ Names will be displayed green when the user's timer is running.
 Installation notes:
 
 - node and npm should be installed (probably need node >10)
-- Configure users and goals in [`express-toggl-api/users-config.js`](https://github.com/harts/toggl-home-dashboard/blob/main/express-toggl-api/users-config.js) and [`dashboard/App.svelte`](https://github.com/harts/toggl-home-dashboard/blob/main/dashboard/App.svelte#4)
+- Configure users and goals in [`express-toggl-api/users-config.js`](https://github.com/harts/toggl-home-dashboard/blob/main/express-toggl-api/users-config.js) and [`dashboard/src/App.svelte`](https://github.com/harts/toggl-home-dashboard/blob/main/dashboard/src/App.svelte#L4)
 - `npm install` in both directories
 - `node index.js` in `express-toggl-api/` to start server
 - `npm run dev` in `dashboard/` to start dashboard
